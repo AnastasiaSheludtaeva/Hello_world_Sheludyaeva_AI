@@ -1,0 +1,10 @@
+ Каталог: C:\Users\Student\Documents\Vishenin_PY\Vishenin_PY\projects_3\task_3_2\GenomicData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        24.02.2026     16:49              0 sequencing_backup.log                                                
+
+
+
+

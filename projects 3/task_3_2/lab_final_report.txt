@@ -1,0 +1,117 @@
+﻿48k-318-12
+
+Name                           Value                                                                                   
+----                           -----                                                                                   
+PSVersion                      5.1.19041.6456                                                                          
+PSEdition                      Desktop                                                                                 
+PSCompatibleVersions           {1.0, 2.0, 3.0, 4.0...}                                                                 
+BuildVersion                   10.0.19041.6456                                                                         
+CLRVersion                     4.0.30319.42000                                                                         
+WSManStackVersion              3.0                                                                                     
+PSRemotingProtocolVersion      2.3                                                                                     
+SerializationVersion           1.1.0.1                                                                                 
+
+
+
+
+
+
+;O 8A?>;L7>20=8O ?@>3@0<<K sfc =5>1E>48<K ?@020 04<8=8AB@0B>@0 8 
+
+
+2K?>;=5=85 A50=A0 :>=A>;8.
+
+
+
+
+
+Name                         CPU       WS
+----                         ---       --
+ShellExperienceHost      1,15625 54476800
+StartMenuExperienceHost 1,609375 31313920
+svchost                 2,015625 30097408
+svchost                          26914816
+svchost                          23068672
+ApplicationFrameHost    1,203125 22061056
+sihost                   4,46875 21323776
+svchost                    1,125 19931136
+svchost                          19132416
+svchost                          15515648
+svchost                          14585856
+TextInputHost            1,09375 13860864
+conhost                     0,25 13676544
+svchost                   0,0625 13266944
+svchost                          13058048
+svchost                          12972032
+svchost                          12226560
+svchost                          11730944
+svchost                 3,453125 11542528
+taskhostw               0,359375 11112448
+svchost                          11010048
+svchost                          10272768
+svchost                          10149888
+svchost                           9469952
+taskhostw               0,296875  9154560
+svchost                           9121792
+svchost                           8953856
+svchost                           8278016
+svchost                           7380992
+svchost                           7188480
+AggregatorHost                    7065600
+svchost                           6979584
+svchost                           6467584
+svchost                           6434816
+svchost                           6037504
+svchost                           5742592
+svchost                           5693440
+svchost                           5476352
+svchost                           5390336
+svchost                           5128192
+svchost                           5087232
+svchost                           5066752
+svchost                           4669440
+svchost                           4644864
+dllhost                           4472832
+svchost                           4452352
+svchost                           4440064
+svchost                           4366336
+svchost                           4304896
+svchost                   0,0625  4210688
+svchost                           4100096
+svchost                           4059136
+svchost                           3989504
+svchost                           3969024
+svchost                           3899392
+svchost                           3878912
+svchost                           3772416
+svchost                           3751936
+svchost                           3674112
+svchost                           3633152
+svchost                           3555328
+svchost                           3399680
+svchost                           3395584
+svchost                           3301376
+svchost                           3260416
+svchost                           3203072
+svchost                           3121152
+svchost                           3026944
+svchost                           2932736
+taskhostw                 0,0625  2854912
+fontdrvhost                       2564096
+svchost                           2363392
+svchost                           2306048
+svchost                           2293760
+svchost                           2097152
+svchost                           2043904
+svchost                           1949696
+svchost                           1765376
+svchost                           1703936
+svchost                           1691648
+svchost                           1564672
+svchost                           1540096
+conhost                           1220608
+svchost                           1069056
+svchost                            671744
+fontdrvhost                        217088
+
+

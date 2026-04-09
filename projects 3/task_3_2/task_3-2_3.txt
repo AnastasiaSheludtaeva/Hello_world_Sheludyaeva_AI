@@ -1,0 +1,13 @@
+Source        Destination     IPV4Address      IPV6Address                              Bytes    Time(ms) 
+------        -----------     -----------      -----------                              -----    -------- 
+48K-318-12    google.com      64.233.162.101                                            32       20       
+48K-318-12    google.com      64.233.162.101                                            32       20       
+48K-318-12    google.com      64.233.162.101                                            32       20       
+48K-318-12    google.com      64.233.162.101                                            32       20       
+48K-318-12    google.com      64.233.162.101                                            32       20       
+                                                    
+
+
+
+
+

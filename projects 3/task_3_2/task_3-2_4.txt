@@ -1,0 +1,20 @@
+Name                                               Length
+----                                               ------
+pycharm-community-2023.3.2.exe                  448669184
+VSCodeUserSetup-x64-1.109.2.exe                 125931816
+VSCodeUserSetup-x64-1.108.2.exe                 124415704
+VisualStudio Soft load free.exe                  70004744
+Git-2.53.0-64-bit (1).exe                        64573288
+Git-2.53.0-64-bit.exe                            64573288
+Git-2.53.0-64-bit (2).exe                        64573288
+Шаблон_Презентации_25.pptx                       16190776
+Historic Roots of Thanksgiving by Slidesgo.pptx  11923225
+Чумин_Методичка 9.1.pptx                         11630096
+
+      
+                                                    
+
+
+
+
+
